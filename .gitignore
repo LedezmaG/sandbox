@@ -1,0 +1,7 @@
+node_modules
+.aws-sam
+constants
+package-lock.json
+query-updates.sql
+.env
+.envProd
